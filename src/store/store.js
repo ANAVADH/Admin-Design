@@ -8,3 +8,8 @@ const store = configureStore(rootReducer,applyMiddleware(thunk));
 
 
 export default store;
+
+
+
+
+
